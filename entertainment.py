@@ -2,8 +2,8 @@ import media
 import fresh_tomatoes
 
 
-# Passing Movie's Title, Storyline, Poster URL, Trailer URL as arguments
-# to init
+''' Passing Movie's Title, Storyline, Poster URL, Trailer URL as arguments
+to init '''
 justice_league = media.Movie('''Justice League''', '''Fueled by his
 restored faith in humanity and inspired by Superman's
 (Henry Cavill) selfless act, Bruce Wayne (Ben Affleck)
